@@ -1,4 +1,4 @@
-# Bootcamp Frontend G14
+# Bootcamp Frontend G14 status
 
 * git status
 * git add index.html
@@ -13,6 +13,7 @@
 * git push -u origin main
 * git remote remove origin
 * git status
+* git checkout -b <nombre-de-la-rama>
 
   
-  
+  git 
